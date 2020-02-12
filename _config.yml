@@ -1,7 +1,7 @@
 # Site settings
 title: MY Blog
 SEOTitle: 成长日记 | MY Blog
-header-img: img/post-bg-desk.jpg
+header-img: 
 email: xinmincao521@gmail.com
 description: "Every failure is leading towards success."
 keyword: "教程"
@@ -12,17 +12,17 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar:     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+# weibo_username:    
+zhihu_username:     
+github_username:    
+facebook_username:  
+jianshu_username:   
 #twitter_username:   qiubaiying
 
 
