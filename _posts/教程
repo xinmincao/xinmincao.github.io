@@ -1,0 +1,137 @@
+## **客户端操作教程**
+
+### 苹果手机IOS教程
+
+#### 下载软件
+
+1. 手机需要切换美区，设置—通用设置—语言和地区，选择美国即可。
+
+2. 打开App Store使用美区App Store账号登录：ID账号: [godssr3@gmail.com](mailto:godssr3@gmail.com) 密码:GodOn+9933 (G\O字母大写) 注意特殊符号与大小写。（千万不要试图登陆iCloud，会上传您的照片与通讯录到这个账户上）
+
+   > 如果上述账号密码错误，使用下面网址提供的账号即可，http://vipzsw.cn/，选择其中ios端的shadowrocket。
+
+3. 商店搜索Shadowrocket下载安装，图标如下所示，千万别下错
+
+![](IOS的shadowrocket操作教程.assets/image-20200131171617397.png)
+
+4. 安装完成后切换回您自己的账号。（**请务必切换回您自己的账户**）
+
+#### 配置 Shadowrocket
+
+1. 打开 Shadowrocket，点击底部导航栏的「设置」进入设置页面，随后往下划至最底部，进入「服务器订阅」子页面。将「打开时更新」的开关 **打开**。
+
+<img src="IOS的shadowrocket操作教程.assets/image-20200131172230075.png" alt="image-20200131172230075" style="zoom: 25%;" />
+
+
+
+2. 回到首页，点击右上角的加号，再次点击第一行的「类型」，选择 **Subscribe**。在「备注」中随便输入名称，随后在「URL」中粘贴**订阅链接**（我会提供），随后点击右上角保存，此时会自动更新获取服务器。<img src="IOS的shadowrocket操作教程.assets/image-20200131172403962.png" alt="image-20200131172403962" style="zoom: 25%;" />
+
+
+
+#### 分流规则
+
+1. 在底部导航栏进入「配置」页面，点击右上角加号。
+
+2. 在弹出的输入框中输入「https://raw.githubusercontent.com/ConnersHua/Profiles/master/Shadow/Pro.conf」可长按链接拷贝，并点击下载。
+
+3. 随后点击 **远程文件** 中新增的配置文件地址，在弹出的菜单中选择第二个「使用配置」，此时 APP 会自动开始下载配置并应用配置。
+
+   <img src="IOS的shadowrocket操作教程.assets/image-20200131173226577.png" alt="image-20200131173226577" style="zoom:25%;" />
+
+4. **回到首页**，点击进入「全局路由」将其更改为 **配置**。
+
+   <img src="IOS的shadowrocket操作教程.assets/image-20200131173320228.png" alt="image-20200131173320228" style="zoom:25%;" />
+
+#### 开始使用
+
+回到 Shadowrocket 首页，在订阅组中选择您需要的节点，随后打开第一行开关即可。如提示添加 VPN 配置，请点击 Allow 并验证您的 密码、Touch ID、Face ID 。（**不要使用前2个节点，那个是剩余时间和流量说明）**
+
+---
+
+### 苹果电脑mac教程
+
+#### 软件安装
+
+1. 软件请在下面的网址下载并安装：https://github.com/yichengchen/clashX/releases
+
+<img src="IOS的shadowrocket操作教程.assets/image-20200131173811613.png" alt="image-20200131173811613" style="zoom:25%;" />
+
+2. 点击菜单栏中 ClashX 的图标，选择 配置 => 托管配置 => 设置地址，粘贴**订阅链接。**
+
+   <img src="IOS的shadowrocket操作教程.assets/image-20200131173941767.png" alt="image-20200131173941767" style="zoom:25%;" />
+
+<img src="IOS的shadowrocket操作教程.assets/image-20200131174011957.png" alt="image-20200131174011957" style="zoom: 50%;" />
+
+
+
+3. 点击菜单栏中 ClashX 的图标，出站模式选择 **规则**，勾选下方的 **设为系统代理** 以及 **开机启动**。<img src="IOS的shadowrocket操作教程.assets/image-20200131174221568.png" alt="image-20200131174221568" style="zoom:50%;" />
+
+#### 开始使用
+
+点击菜单栏中 ClashX 的图标，然后在下方的 **Proxy 策略组** 中选择 你中意的节点即可。**（不要使用前2个节点，那个是剩余时间和流量说明）**
+
+---
+
+### 安卓手机客户端
+
+#### 下载软件
+
+1. 通过下面地址下载软件 https://www.vipzsw.cn/，软件是安卓版本v2rayng
+
+   ![image-20200131175506940](IOS的shadowrocket操作教程.assets/image-20200131175506940.png)
+
+#### 配置v2rayng
+
+1. 打开 V2rayNG 点击左上角的菜单图标打开侧边栏，随后点击 **订阅设置**。<img src="IOS的shadowrocket操作教程.assets/image-20200131180024514.png" alt="image-20200131180024514" style="zoom:25%;" />
+
+2. 点击右上角的加号按钮，在新页面的备注中随便填写，地址输入框中粘贴**订阅链接**并点击右上角的 **√**。
+
+<img src="IOS的shadowrocket操作教程.assets/image-20200131180124556.png" alt="image-20200131180124556" style="zoom:25%;" />
+
+3. 再次从侧边栏进入 **设置** 页面，点击 预定义规则中，将**路由模式** 将其更改为 **绕过局域网及大陆地址**。
+
+<img src="IOS的shadowrocket操作教程.assets/image-20200131180229820.png" alt="image-20200131180229820" style="zoom:25%;" />
+
+
+
+4. 随后从侧边栏回到 **配置文件** 页面，点击右上角的省略号图标选择更新订阅。
+
+   <img src="IOS的shadowrocket操作教程.assets/image-20200131180333873.png" alt="image-20200131180333873" style="zoom:25%;" />
+
+
+
+#### 开始使用
+
+点击选择您中意的节点，点击**右下角的按钮**即可连接。如操作系统提示添加 VPN 配置，请点击 运行 并验证您的 密码、指纹等。**（不要使用前2个节点，那个是剩余时间和流量说明）**
+
+---
+
+### windows电脑设置教程
+
+#### 下载软件
+
+1. 通过下面地址下载软件 https://www.vipzsw.cn/，软件是Win版本v2rayN![image-20200131180542909](IOS的shadowrocket操作教程.assets/image-20200131180542909.png)
+
+2. 下载好软件后解压，并打开v2rayN.exe
+
+#### 配置
+
+1. 选择添加**订阅**中的添加订阅，将订阅地址复制进去，并更新订阅即可。
+
+2. 在电脑右下角找到V2rayN的软件图标，鼠标右键打开二级菜单，勾选启东http代理并开启pac模式
+
+   <img src="IOS的shadowrocket操作教程.assets/image-20200131180814451.png" alt="image-20200131180814451" style="zoom: 33%;" />
+
+3. 在软件最上部选择检查更新pac。
+
+   <img src="IOS的shadowrocket操作教程.assets/image-20200131180840245.png" alt="image-20200131180840245" style="zoom: 33%;" />
+
+4. 设置完成后，选择重启服务器
+
+#### 开始使用
+
+点击选择您中意的节点，并按enter键即可连接。**（不要使用前2个节点，那个是剩余时间和流量说明）**
+
+---
+
+
